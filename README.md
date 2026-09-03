@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Crio alguns conteúdos e sou desenvolvedor, apaixonado por transformar código em projetos reais.</p>
+<p align="left">Crio alguns conteúdos e sou desenvolvedor, transformo ideias em projetos que dificilmente serve pra algokkkkk.</p>
 
 ###
 
