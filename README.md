@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Faço uns conteúdos e aqui estão algumas tecnologias com as quais já brinquei ou ainda brinco kkkkk.</p>
+<p align="left">Faço uns conteúdos e aqui estão algumas tecnologias que eu ja brinquei ou ainda brinco kakak.</p>
 
 ###
 
@@ -29,9 +29,6 @@
 <div align="left">
   <a href="https://www.youtube.com/@dgcomputaria" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="youtube logo" />
-  </a>
-  <a href="https://www.instagram.com/fontenelee.diego/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
   <a href="https://www.linkedin.com/in/diego-fontenele-4627b73b3/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
