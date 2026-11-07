@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="250" src="https://i.ibb.co/LhbhJ9Fy/imagem-2026-11-07-142329910.png" />
+<img align="right" height="250" src="[![imagem-2026-11-07-142329910.png](https://i.postimg.cc/L6FqZVGq/imagem-2026-11-07-142329910.png)](https://postimg.cc/WtSpB0Nj)" />
 
 ###
 
