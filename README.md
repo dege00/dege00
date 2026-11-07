@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="250" src="https://i.pinimg.com/originals/30/7c/e4/307ce44aa3f88c19abcaef0f7065bbfa.gif" />
+<img align="right" height="250" src="https://i.ibb.co/LhbhJ9Fy/imagem-2026-11-07-142329910.png" />
 
 ###
 
